@@ -31,5 +31,6 @@ Components
 #### Conclusion
 This project serves as a practical introduction to home automation using Arduino technology. By simulating a real-world environment, it provides an engaging way to explore the principles of IoT, automation, and embedded systems. This hands-on approach allows you to gain valuable insights and experience in modern smart home technologies.
 ### [Video Presentation](https://drive.google.com/file/d/1j7aGMAyDxYsEcB16z_w8Sk2TiBd3qKNW/view?usp=sharing)
+#### [Presentation PPT](https://docs.google.com/presentation/d/1sO55-2IokVLk35bMAVHoytM6mFcF73Ox/edit?usp=sharing&ouid=117315267640468346071&rtpof=true&sd=true)
 ### Contact
 For questions, feedback, or further information, please contact me at bhanavathrakesh12345@gmail.com.
