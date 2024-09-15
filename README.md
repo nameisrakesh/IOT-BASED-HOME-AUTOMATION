@@ -30,6 +30,6 @@ Components
 * Experiment: Test different automation scenarios and configurations to understand how the system responds to various sensor inputs and user commands.
 #### Conclusion
 This project serves as a practical introduction to home automation using Arduino technology. By simulating a real-world environment, it provides an engaging way to explore the principles of IoT, automation, and embedded systems. This hands-on approach allows you to gain valuable insights and experience in modern smart home technologies.
-
+### [Video Presentation](https://drive.google.com/file/d/1j7aGMAyDxYsEcB16z_w8Sk2TiBd3qKNW/view?usp=sharing)
 ### Contact
 For questions, feedback, or further information, please contact me at bhanavathrakesh12345@gmail.com.
